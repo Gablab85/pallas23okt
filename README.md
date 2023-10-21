@@ -4,4 +4,3 @@
 #github vs code
 #teljesen más megoldás
 #próba branch
-#pallas
