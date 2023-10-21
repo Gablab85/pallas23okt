@@ -5,3 +5,4 @@
 #teljesen más megoldás
 #próba branch
 #pallas
+#gyakorlás
